@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "refine-prompt",
+  "description": "Prompt refinement skill: hypothesis-led interview, frontier capability calibration, and high-ambition prompt rewriting",
+  "owner": {
+    "name": "r",
+    "email": "hi@rquinonez.com"
+  },
+  "plugins": [
+    {
+      "name": "refine-prompt",
+      "description": "Interviews the user to find what they are actually trying to achieve, then rewrites their prompt into a sharper, more ambitious, frontier-calibrated version.",
+      "author": {
+        "name": "r",
+        "email": "hi@rquinonez.com"
+      },
+      "category": "productivity",
+      "source": "."
+    }
+  ]
+}

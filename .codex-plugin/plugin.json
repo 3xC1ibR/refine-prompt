@@ -1,0 +1,24 @@
+{
+  "name": "refine-prompt",
+  "version": "0.1.0",
+  "description": "Interviews the user to find what they are actually trying to achieve, then rewrites their prompt into a sharper, more ambitious, frontier-calibrated version.",
+  "author": {
+    "name": "r",
+    "email": "hi@rquinonez.com"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Refine Prompt",
+    "shortDescription": "Interview and rewrite rough prompts into sharper, more ambitious, frontier-calibrated briefs.",
+    "longDescription": "Turns a rough prompt into a sharper, more ambitious, frontier-calibrated brief by diagnosing context first, calibrating against live frontier capabilities, running a concise hypothesis-led multiple-choice interview, and rewriting with clear outcomes, raw inputs, ambitious bars, and external verification.",
+    "developerName": "r",
+    "category": "Productivity",
+    "capabilities": [
+      "Context-first prompt diagnosis",
+      "Frontier capability calibration",
+      "Hypothesis-led multiple-choice interview",
+      "Altitude, Depth, Range, and Frontier prompt rewriting"
+    ],
+    "defaultPrompt": "Use $refine-prompt to interview me and rewrite this prompt into a sharper, more ambitious, frontier-calibrated version."
+  }
+}

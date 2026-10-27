@@ -1,0 +1,10 @@
+{
+  "name": "refine-prompt",
+  "version": "0.1.0",
+  "description": "Interviews the user to find what they are actually trying to achieve, then rewrites their prompt into a sharper, more ambitious, frontier-calibrated version.",
+  "license": "MIT",
+  "author": {
+    "name": "r",
+    "email": "hi@rquinonez.com"
+  }
+}
